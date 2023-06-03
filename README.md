@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kpachodap
 - 👀 I’m interested in hiking, dogs, computer networking, programming
-- 🌱 I’m currently learning git, Cisco Routing and Switching (CCNA), Linux
+- 🌱 I’m currently learning git, Cisco Routing and Switching (CCNA), Linux, Python
 - 💞️ I’m looking to collaborate on open to suggestions
 - 📫 How to reach me kpachodap@gmail.com
 
